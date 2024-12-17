@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914063654392",
+    "project_id": "memome-4ecef",
+    "storage_bucket": "memome-4ecef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914063654392:android:50919d634c435136cd6a0d",
+        "android_client_info": {
+          "package_name": "com.example.memome_amp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl0555pLOd_WOrl9sYo23QJzUAOhCuC4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
